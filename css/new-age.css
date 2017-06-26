@@ -370,9 +370,9 @@ section.contact ul.list-social li.social-google-plus a:hover {
   background-color: #d73925;
 }
 footer {
-  background-color: #222222;
+  background-color: #f00;
   padding: 25px 0;
-  color: rgba(255, 255, 255, 0.3);
+  color: rgba(255, 0, 0, 0.3);
   text-align: center;
 }
 footer p {
